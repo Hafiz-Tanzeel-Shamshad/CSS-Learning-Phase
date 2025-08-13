@@ -1,0 +1,24 @@
+/* h2{
+    display: inline;
+    background-color: pink;
+}
+span{
+    display: block;
+    background-color: yellowgreen;
+} */
+span{
+   
+    border: 2px solid black;
+    height: 100px;
+    width: 200px;
+    padding: 50px; /*set padding only Left or Right of inline element*/
+    margin: 50 px; /*set margin left or right of inline element*/
+}
+div{
+    
+    border: 2px solid black;
+    height: 100px;  
+    width: 200px;
+    padding: 50px; 
+    margin: 50 px; 
+}
