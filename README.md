@@ -1,10 +1,10 @@
-# CSS Last Learning-Phase 🎨
+# CSS Last Learning-Phase 
 
 The **CSS-Learning-Phase** repository is a comprehensive collection of hands-on exercises and projects designed to guide learners through the fundamentals and advanced concepts of Cascading Style Sheets. CSS is the language used to style and enhance the appearance of web pages. This repository complements HTML learning by adding colors, layouts, and interactive design.
 
 ---
 
-# CSS Styling & Navigation Projects 🎨
+# 🎨 CSS Styling & Navigation Projects 
 
 This repository showcases modern **CSS techniques** including **Google Fonts, Material Icons, Font Awesome**, and interactive **navigation menus**.
 
