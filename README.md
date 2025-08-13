@@ -24,7 +24,7 @@ This repository showcases modern **CSS techniques** including **Google Fonts, Ma
 
 
 ## 📁 Branches Overview
-
+Click a branch below to go directly to it on GitHub and see the exercises and projects included:
 1. [CSS-Getting-Started-Part-1](https://github.com/Hafiz-Tanzeel-Shamshad/CSS-Learning-Phase/tree/CSS-Getting-Started-Part-1)  
 2. [CSS---Part-2](https://github.com/Hafiz-Tanzeel-Shamshad/CSS-Learning-Phase/tree/CSS---Part-2)  
 3. [CSS---Part-3](https://github.com/Hafiz-Tanzeel-Shamshad/CSS-Learning-Phase/tree/CSS---Part-3)  
