@@ -1,4 +1,4 @@
-# CSS-Getting-Started-Part-1 🎨
+# 🎨 CSS-Getting-Started-Part-1 
 
 A collection of HTML/CSS examples demonstrating fundamental styling concepts and techniques.
 
