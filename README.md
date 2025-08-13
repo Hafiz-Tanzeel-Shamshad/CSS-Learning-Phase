@@ -1,6 +1,6 @@
 <h1 style="text-align: center;">CSS Learning Phase – Part 3</h1>
 
-## Box Model & Layout Fundamentals 🎨
+## 🎨 Box Model & Layout Fundamentals 
 
 
 This project demonstrates core CSS concepts including the box model, display properties, units, and layout techniques through practical examples.
