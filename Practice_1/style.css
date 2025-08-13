@@ -1,0 +1,35 @@
+h1{
+    text-align: center;/*parent ka hisab sy hoti ha*/
+    /* text-decoration: underline; */
+    text-decoration: red underline;
+    text-decoration: wavy red underline;
+    /* letter-spacing: normal; */
+    letter-spacing: 20px;
+    font-family: fantasy; /*Set text Font*/
+    
+}
+
+h3{
+    text-align: right ;
+    /* text-decoration: line-through; */
+    text-decoration:purple line-through;
+    font-size: 25px;
+} 
+p{
+    text-align: justify;
+    font-weight: 200;
+    /* line-height: normal; */
+    line-height: 2.5;/*height b/w two lines*/
+    font-size: 15px;
+}
+h2{
+    /* font-weight: 800; */
+    font-weight: bold;
+    /* text-decoration: overline; */
+    /* text-decoration:blue overline; */
+    text-decoration:double blue  overline;
+}
+
+a{
+    text-decoration: none ; /*remove underline from hyper link*/
+}

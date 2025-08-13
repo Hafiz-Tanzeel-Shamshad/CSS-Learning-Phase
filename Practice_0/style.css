@@ -1,0 +1,18 @@
+h1{
+    color: rgb(0,255,0);
+    background-color: aquamarine;
+}
+
+p{
+    color: red;
+    background-color: rgb(39, 54, 49);
+}
+
+button{
+    color: rgb(127, 3, 243);
+    background-color: black;
+}
+
+h2{
+    color: #f0f;   /*short cut to write hexa code*/
+}
