@@ -86,7 +86,7 @@ By completing this project, learners will:
 
 ---
 
-## Project Structure
+## Projects & Practices (Last Phase)
 
 ### 1. Font Integration Demo
 - **Files:** `fonts-demo.html`, `fonts-demo.css`  
