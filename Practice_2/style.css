@@ -1,0 +1,49 @@
+.box {
+    height: 100px;
+    width: 300px;
+    background-color: pink;
+    
+    animation: widthAnimate 3s ease-in-out 1s infinite normal;
+}
+
+
+
+@keyframes widthAnimate {
+    from{
+        width: 10px;
+        /* height: 10px; */
+        font-size: 20px;
+        background-color: green;
+    }    
+    to{
+        width: 400px;
+        /* height: 400px; */
+        font-size: 40px;
+        background-color: yellowgreen;
+        border-radius: 30px;
+    }
+}
+
+.box1 {
+    height: 100px;
+    width: 300px;
+    background-color: pink;
+    
+    animation: colorAnimate 2s ease-in-out 5s 5 normal;
+}
+
+
+@keyframes colorAnimate {
+    0%{
+        background-color: blue;
+    }
+    30%{
+        background-color: aqua;
+    }
+    70%{
+        background-color: chocolate;
+    }
+    100%{
+        background-color: red;
+    }
+}
