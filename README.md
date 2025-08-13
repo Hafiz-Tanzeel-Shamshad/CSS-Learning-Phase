@@ -114,3 +114,16 @@ By completing this project, learners will:
 - [Material Icons Guide](https://fonts.google.com/icons)  
 - [Font Awesome Documentation](https://fontawesome.com/docs)  
 - [CSS Transition Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Transitions/Using_CSS_transitions)
+
+---
+## Contributions
+Feel free to contribute by **adding new HTML exercises** or **improving existing examples**.  
+
+Submit a **pull request** with your improvements.
+
+---
+
+## License
+This repository is **open for learning and personal use**.  
+
+**Happy Coding! 🚀**
