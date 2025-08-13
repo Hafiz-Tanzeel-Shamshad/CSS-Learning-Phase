@@ -1,4 +1,5 @@
-# CSS Learning Phase – Part 3
+<h1 style="text-align: center;">CSS Learning Phase – Part 3</h1>
+
 ## Box Model & Layout Fundamentals 🎨
 
 
